@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Internship</string>
+    <string name="invitation_title">Referrals-Internship Referrals</string>
+    <string name="invitation_message">I\m inviting you to use Internship,a simple and best app for applying internship.</string>
+    <string name="invitation_deep_link">https://github.com/abhayshekhar</string>
+    <string name="google_play_services_error">Google play services error ,try later</string>
+    <string name="invitation_custom_image">https://en.wikipedia.org/wiki/Image#/media/File:Image_created_with_a_mobile_phone.png</string>
+    <string name="invitation_cta">Abhay Shekhar Yadav</string>
+    <string name="send_failed">Try sending some other time</string>
+
+    <string-array name="options">
+        <item>Welcomes You At My App</item>
+        <item>Send Invitation To Your Friend</item>
+        <item>Contact</item>
+    </string-array>
+
+</resources>

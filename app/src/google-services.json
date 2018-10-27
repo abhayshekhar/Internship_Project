@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "533221753285",
+    "firebase_url": "https://internship-7e2bd.firebaseio.com",
+    "project_id": "internship-7e2bd",
+    "storage_bucket": "internship-7e2bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:533221753285:android:dc0e55137dcf2023",
+        "android_client_info": {
+          "package_name": "com.hfad.internship"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "533221753285-1t2e6147a1bnb4e1gsn89rbafhugrhp4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDynQ32R6RHOPD77VWKwC30XG-qGZZiDv0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
