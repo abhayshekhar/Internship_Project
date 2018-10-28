@@ -15,6 +15,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "533221753285-6d1sbcv8990hbfn6guj7ns2e7ccnn6rd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hfad.internship",
+            "certificate_hash": "46b108339007c21eddda122287c7f5548c56ae44"
+          }
+        },
+        {
           "client_id": "533221753285-1t2e6147a1bnb4e1gsn89rbafhugrhp4.apps.googleusercontent.com",
           "client_type": 3
         }
@@ -29,8 +37,13 @@
           "status": 1
         },
         "appinvite_service": {
-          "status": 1,
-          "other_platform_oauth_client": []
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "533221753285-1t2e6147a1bnb4e1gsn89rbafhugrhp4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         },
         "ads_service": {
           "status": 2

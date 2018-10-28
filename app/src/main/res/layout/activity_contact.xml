@@ -1,9 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
-<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:app="http://schemas.android.com/apk/res-auto"
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".ContactActivity">
+    tools:context="com.hfad.internship.ContactActivity">
+
+    <TextView
+        android:id="@+id/Developer"
+        android:layout_width="500dp"
+        android:layout_height="550dp"
+        android:layout_marginTop="200dp"
+        android:layout_gravity="center_horizontal"
+        android:paddingLeft="18dp"
+        android:background="@color/colorPrimaryDark"
+        android:text="Abhay Shekhar Yadav
+        contact 9155876105 email id-abhayshekhar.jh@gmail.com"
+        android:textColor="@android:color/holo_blue_bright" />
 
 </android.support.constraint.ConstraintLayout>
